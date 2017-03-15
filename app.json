@@ -1,0 +1,36 @@
+{
+  "pages":[
+    "pages/camera/camera",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "FeedbackDemo",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "color": "#929292",
+    "selectedColor": "#ff2d55",
+    "borderStyle": "white",
+    "backgroundColor": "#ffffff",
+    "list": [{
+      "pagePath": "pages/camera/camera",
+      "text": "首页",
+      "selectedColor": "#3cc51f",
+      "backgroundColor": "#fff",
+      "iconPath": "images/zone@2x.png"
+    }, {
+      "pagePath": "pages/logs/logs",
+      "text": "列表",
+       "selectedColor": "#3cc51f",
+      "backgroundColor": "#fff",
+      "iconPath": "images/zone@2x.png"
+    }]
+  },
+  
+  "debug":true
+
+  
+}

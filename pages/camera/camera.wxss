@@ -1,0 +1,21 @@
+/**camera.wxss**/
+/*.userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}*/
+
+.Photo {
+  width: 200rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  background-color:green;
+}
+
+/*.Album {
+  margin-top: 50px;
+  width: 200rpx;
+  height: 128rpx;
+  background-color:yellow;
+}*/
+

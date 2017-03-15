@@ -1,0 +1,5 @@
+<!--camera.wxml-->
+<view class="container">
+    <button bindtap="takePhoto" class="Photo" >相机</button>
+    <text>{{resultText}}</text>
+</view>
